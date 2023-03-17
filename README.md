@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+[Kodluyoruz](https://kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![Pikachu](https://upload.wikimedia.org/wikipedia/ro/thumb/8/89/Pikachu.jpg/220px-Pikachu.jpg)
 
